@@ -26,4 +26,4 @@ A starter template for adding subscription billing to a SaaS product, built with
 
 ## Live demo
 
-Add your Vercel URL here once deployed.
+Live demo: https://stripe-saas-boilerplate.netlify.app/pricing
